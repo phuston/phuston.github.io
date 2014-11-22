@@ -12,9 +12,11 @@
 
 .jumbotron {
   background-image:url('static/img/jumboBack.jpg');
-  height: 500px;
+  background-color: #FF8533;
+  height: 55rem;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
+  background-position: right;
   }
 
 .jumbotron .container {
