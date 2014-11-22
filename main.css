@@ -1,5 +1,5 @@
 .nav a {
-  color: #5a5a5a;
+  color: black;
   font-size: 11px;
   font-weight: bold;
   padding: 14px 10px;
@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url('https://lh3.googleusercontent.com/-H1OydjyC1wU/VFUrjiTL0KI/AAAAAAAAHqI/Hf-qxHPjZs8/w1059-h701-no/HeadshotBest.jpg');
+  background-image:url('static/img/jumboBack.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -23,7 +23,7 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
+  color: black;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -31,11 +31,11 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #fff;
+  color: black;
 }
 
 .learn-more {
-  background-color: #f7f7f7;
+  background-color: black;
 }
 
 .learn-more h3 {
@@ -48,17 +48,3 @@
   color: #00b0ff;
 }
 
-.neighborhood-guides{
-    background-color: #efefef;
-    border-bottom: 1px solid #dbdbdb;
-}
-
-.neighborhood-guides h2{
-    color: #393c3d;
-    font-size: 24px;
-}
-
-.neighborhood-guides p{
-    font-size: 15px;
-    margin-bottom: 13px;
-}

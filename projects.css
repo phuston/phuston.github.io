@@ -1,0 +1,44 @@
+.nav a {
+  color: black;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-color: #80CCFF;
+  height: 15rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+.jumbotron .container {
+  position: relative;
+  top:1rem;
+}
+
+.jumbotron h1 {
+  color: black;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.projects {
+  background-color: black;
+}
+
+.projects h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.projects a {
+  color: #00b0ff;
+}
