@@ -31,14 +31,24 @@
 
 .projects {
   background-color: black;
+  height: fill;
 }
 
 .projects h3 {
   font-family: 'Shift', sans-serif;
   font-size: 18px;
   font-weight: bold;
+  color: gainsboro;
+}
+
+.projects p {
+  color: lightgray;
 }
 
 .projects a {
   color: #00b0ff;
+}
+
+html,body { 
+  height:100%; 
 }
