@@ -10,16 +10,20 @@
   display: inline;
 }
 
+.nav{
+  background-color: #FF8533;
+}
+
 .jumbotron {
   background-color: #80CCFF;
-  height: 15rem;
+  height: 12rem;
   background-repeat: no-repeat;
   background-size: cover;
   }
 
 .jumbotron .container {
   position: relative;
-  top:1rem;
+  top:0rem;
 }
 
 .jumbotron h1 {
