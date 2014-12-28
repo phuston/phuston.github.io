@@ -34,6 +34,7 @@
 }
 
 .projects {
+  height:50rem;
   background-color: black;
   height: fill;
 }
