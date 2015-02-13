@@ -936,6 +936,13 @@
 			margin: 0;
 		}
 
+	.work-item .github-link a {
+		text-align:center;
+		display: block !important;
+  		margin-left: auto !important;
+  		margin-right: auto !important;
+	}
+
 /* Header */
 
 	#header {
