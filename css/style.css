@@ -685,6 +685,7 @@
 			padding: 0;
 		}
 
+
 			ul.labeled-icons li {
 				line-height: 1.75em;
 				margin: 1.5em 0 0 0;
@@ -944,7 +945,7 @@
 	}
 
 	.work-item .github-link {
-		
+
 	}
 
 /* Header */
@@ -987,6 +988,14 @@
 			width: 8.25em;
 		}
 
+		#header .icons {
+			margin: 1em 0 0 0;
+		}
+
+			#header .icons a {
+				color: rgba(255, 255, 255, 0.4);
+			}
+
 /* Footer */
 
 	#footer {
@@ -998,13 +1007,7 @@
 		width: 35%;
 	}
 
-		#footer .icons {
-			margin: 1em 0 0 0;
-		}
-
-			#footer .icons a {
-				color: rgba(255, 255, 255, 0.4);
-			}
+		
 
 		#footer .copyright {
 			color: rgba(255, 255, 255, 0.4);
